@@ -1,3 +1,5 @@
+//making new changes in this file
+
 //Get sum from 1 to n(including n)
 //Part of udemy course
 function addUpTo(n) {
@@ -8,6 +10,7 @@ function addUpTo(n) {
     //summmation of the all the inputs
     return total;
 }
+
 
 var time1 = performance.now();
 addUpTo(1000000000);
